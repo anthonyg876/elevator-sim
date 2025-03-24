@@ -4,7 +4,7 @@ A simple elevator simulation that models basic elevator behavior and floor reque
 ## Features
 - Sets up the number of floors in a building
 - Can request specific floors for the elevator to stop at.
-- Elevator will complete all floors above before coming back down.
+- Elevator will move to all floors above the current floor before heading down to the floors below.
 
 ## Run this
 ```sh
